@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I liked the world of the web and pushing my skills.\
+💡 &nbsp;I like the world of the web and pushing my skills.\
 🎓 &nbsp;I am currently in interactive media development and integration training.\
 🌱 &nbsp;I always train on new technology.\
 ✍️ &nbsp;in my free time I make illustrations and designs of all kinds.\
-💬 &nbsp;Do not hesitate to contact me for interesting discussions.\
-✉️ &nbsp;You can shoot me an email at contact@polylight.company I'll try to respond as soon as I can.\
+💬 &nbsp;don't hesitate to contact me for interesting discussions.\
+✉️ &nbsp;You can send me an email at contact@polylight.company I'll try to respond as soon as I can.\
 
 
 <img alt="Night Coding" src="https://acegif.com/wp-content/gifs/coffee-31.gif" align="right"/>
@@ -19,7 +19,7 @@
 
 ### 🐱‍👓  &nbsp; My skills and Tech Stack 
 
-#### &nbsp; Langague
+#### &nbsp; Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -102,9 +102,9 @@ I recently started wakatime
 
 <p  style="color: #d93a7c">
 
-I am a Norman student!</span> I don't like apples. Passionate about design and the web, I made it my goal.
-Currently I am preparing the ground to start freelance.  
-I prefer tacos than kebabs and I like the planet and traveling on it, I regularly go to les halpes in France to hike there.  
+I am a French student!</span> I don't like Apples. Passionate about design and the web, it became my professional life goal .
+Currently I'm preparing to became a freelancer.  
+I prefer tacos than kebabs and I like the planet and traveling on it,I often o in the French Alps to hike there.  
 little minds discuss people  
 average minds discussed events  
 Great minds discuss ideas  
