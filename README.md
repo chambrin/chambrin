@@ -1,6 +1,6 @@
-![Chambrin's Banner](https://i.ytimg.com/vi/PuxvZo8Hrlo/maxresdefault.jpg)
+![Chambrin's Banner](./assets/pp2.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Chambrin</h2>
+<img alt="hands" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Chambrin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm chambrin -->
 
