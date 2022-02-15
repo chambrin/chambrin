@@ -85,11 +85,6 @@
 
 
 
-### ⚙️ &nbsp;Wakatime Week Stats  
-I recently started wakatime
-
-
-[![Chambrin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chambrin&theme=radical)](https://github.com/Chambrin/github-readme-stats)&nbsp;
 
 <p align="center">
 <h2 align="center">🌮 Chill zone 🌮</h2>
