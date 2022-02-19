@@ -11,7 +11,7 @@
 🌱 &nbsp;I always train on new technology.\
 ✍️ &nbsp;in my free time I make illustrations and designs of all kinds.\
 💬 &nbsp;don't hesitate to contact me for interesting discussions.\
-✉️ &nbsp;You can send me an email at contact@polylight.company I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at contact@chambrin.dev I'll try to respond as soon as I can.\
 
 
 <img alt="Night Coding" src="https://acegif.com/wp-content/gifs/coffee-31.gif" align="right"/>
