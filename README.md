@@ -3,6 +3,16 @@
 <img alt="hands" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Chambrin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm chambrin -->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://instagram.com/polylight_company/"><img src="https://img.shields.io/badge/-@Chambrin__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+<a href="https://www.behance.net/alexandchambri1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</p>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
