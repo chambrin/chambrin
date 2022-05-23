@@ -95,7 +95,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=chambrin">
+<p><img src="https://github-profile-trophy.vercel.app/?username=chambrin-ma&theme=discord">
 </p>
 
 ## 📊 Github Status
