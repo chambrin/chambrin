@@ -74,6 +74,7 @@
 ![Node.js](https://camo.githubusercontent.com/5d7ea9fe5794888a92430385cd60518b6ae8e279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
 #### &nbsp; Tools
 
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/)&nbsp;
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
