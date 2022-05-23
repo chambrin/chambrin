@@ -93,7 +93,14 @@
 </a>
 </p>
 
+## 🏆 GitHub Trophies
 
+<p><img src="https://github-profile-trophy.vercel.app/?username=chambrin">
+</p>
+
+## 📊 Github Status
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chambrin"><p>
 
 
 <p align="center">
