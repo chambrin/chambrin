@@ -87,19 +87,14 @@
 <p align="center">
 <a href="https://github.com/chambrin">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chambrin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chambrin&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=chambrin"/>
 </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=chambrin">
+<p><img height="200em" src="https://github-profile-trophy.vercel.app/?username=chambrin">
 </p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chambrin"><p>
-
 
 <p align="center">
 <h2 align="center">🌮 Chill zone 🌮</h2>
