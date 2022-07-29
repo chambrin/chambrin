@@ -3,7 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm chambrin -->
 ### 🤝🏻 &nbsp;Connect with Me
-
+[![wakatime](https://wakatime.com/badge/user/bc6b30e9-ca2f-4741-a912-a9927f88ea1e.svg)](https://wakatime.com/@bc6b30e9-ca2f-4741-a912-a9927f88ea1e)
 <p align="center">
 
 <a href="https://instagram.com/polylight_company/"><img src="https://img.shields.io/badge/-@Chambrin__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
