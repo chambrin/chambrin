@@ -36,7 +36,7 @@
 
 ![Wordpress](https://camo.githubusercontent.com/cefdc0dfe0adcc406a37c2eca4bd54b8432ebc16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732532302d2532333231373539422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
 ![Prestashop](https://camo.githubusercontent.com/e1f7418c150835dcaf9c74d1afe7190f357cf587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726573746153686f702532302d2532334446303036372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d50726573746153686f70266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;    
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)&nbsp; 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp; 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp; 
