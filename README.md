@@ -43,7 +43,11 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp; 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;  
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)&nbsp; 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp; 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![Ghost](https://camo.githubusercontent.com/5eecc9d32cc5c67dfc98116bd46689d91da696ec66009fc85309a588172a662d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47686f737426636f6c6f723d313531373141266c6f676f3d47686f7374266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
+![Homebrew](https://camo.githubusercontent.com/dc6aad5d976cbd9f111a373304bc8df30dc38a94b7f4a541cafe44e6a2762dfc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d486f6d656272657726636f6c6f723d323232323232266c6f676f3d486f6d6562726577266c6f676f436f6c6f723d464242303430266c6162656c3d)&nbsp;
+![Hugo](https://camo.githubusercontent.com/46e16cfdabfe33084017c9763df514dae8ec8dbd1a88d248c90a92beab852780/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4875676f26636f6c6f723d464634303838266c6f676f3d4875676f266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
+
 #### &nbsp; Design
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp; 
@@ -70,7 +74,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Node.js](https://camo.githubusercontent.com/5d7ea9fe5794888a92430385cd60518b6ae8e279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
 #### &nbsp; Tools
-
+![Hotjar](https://camo.githubusercontent.com/431ba0dfc27f3c39dc256be40e4373151f114b222180d577d174f77c9a045305/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d486f746a617226636f6c6f723d464433413543266c6f676f3d486f746a6172266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/)&nbsp;
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)&nbsp;
