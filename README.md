@@ -5,12 +5,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 
-<a href="https://instagram.com/polylight_company/"><img src="https://img.shields.io/badge/-@Chambrin__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
-<a href="https://www.behance.net/alexandchambri1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
-</p>
-
+https://chambrin.github.io/Suivez-moi/
 
 ### 👨🏻‍💻 &nbsp;About Me
 
