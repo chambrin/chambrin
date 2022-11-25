@@ -37,7 +37,6 @@ https://chambrin.github.io/Suivez-moi/
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp; 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp; 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;  
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)&nbsp; 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Ghost](https://camo.githubusercontent.com/5eecc9d32cc5c67dfc98116bd46689d91da696ec66009fc85309a588172a662d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47686f737426636f6c6f723d313531373141266c6f676f3d47686f7374266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
 ![Homebrew](https://camo.githubusercontent.com/dc6aad5d976cbd9f111a373304bc8df30dc38a94b7f4a541cafe44e6a2762dfc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d486f6d656272657726636f6c6f723d323232323232266c6f676f3d486f6d6562726577266c6f676f436f6c6f723d464242303430266c6162656c3d)&nbsp;
