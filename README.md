@@ -1,4 +1,6 @@
 
+<img src="assets/bannerchambrin.gif"/>
+
 <img alt="hands" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Chambrin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm chambrin -->
@@ -10,34 +12,39 @@ https://chambrin.github.io/Suivez-moi/
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like the world of the web and pushing my skills.\
-🎓 &nbsp;I am currently in interactive media development and integration training.\
 🌱 &nbsp;I always train on new technology.\
 ✍️ &nbsp;in my free time I make illustrations and designs of all kinds.\
 💬 &nbsp;don't hesitate to contact me for interesting discussions.\
 ✉️ &nbsp;You can send me an email at contact@chambrin.dev I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://acegif.com/wp-content/gifs/coffee-31.gif" align="right"/>
+<img alt="Night Coding" src="https://64.media.tumblr.com/4422dfe919063c67e54154bd817ea88f/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" align="right"/>
 
 
 ### 🐱‍👓  &nbsp; My skills and Tech Stack 
+
+#### My principal stack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Gitkraken](https://camo.githubusercontent.com/9b1312102cf9107438d03542da09a0383bca3a40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744b72616b656e2532302d2532333137393238372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4769744b72616b656e266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+
+## Other skills
 
 #### &nbsp; Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 #### &nbsp; Frameworks, Platforms and Libraries
 
 ![Wordpress](https://camo.githubusercontent.com/cefdc0dfe0adcc406a37c2eca4bd54b8432ebc16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732532302d2532333231373539422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
 ![Prestashop](https://camo.githubusercontent.com/e1f7418c150835dcaf9c74d1afe7190f357cf587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726573746153686f702532302d2532334446303036372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d50726573746153686f70266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;    
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)&nbsp; 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp; 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp; 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp; 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;  
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Ghost](https://camo.githubusercontent.com/5eecc9d32cc5c67dfc98116bd46689d91da696ec66009fc85309a588172a662d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47686f737426636f6c6f723d313531373141266c6f676f3d47686f7374266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
 ![Homebrew](https://camo.githubusercontent.com/dc6aad5d976cbd9f111a373304bc8df30dc38a94b7f4a541cafe44e6a2762dfc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d486f6d656272657726636f6c6f723d323232323232266c6f676f3d486f6d6562726577266c6f676f436f6c6f723d464242303430266c6162656c3d)&nbsp;
 ![Hugo](https://camo.githubusercontent.com/46e16cfdabfe33084017c9763df514dae8ec8dbd1a88d248c90a92beab852780/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4875676f26636f6c6f723d464634303838266c6f676f3d4875676f266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
