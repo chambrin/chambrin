@@ -38,8 +38,7 @@ Full-Stack Typescript Developer
 
 ![divider1](./assets/Group_400.png)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<a href="https://app.daily.dev/chambrin80"><img src="https://api.daily.dev/devcards/v2/QgSDjhS5EbziBaDwnl4sl.png?type=default&r=nno" width="356" alt="Chambrin's Dev Card"/></a>
 
 
 ---
