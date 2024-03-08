@@ -38,9 +38,6 @@ Full-Stack Typescript Developer
 
 ![divider1](./assets/Group_400.png)
 
-<a href="https://app.daily.dev/chambrin80"><img src="https://api.daily.dev/devcards/v2/QgSDjhS5EbziBaDwnl4sl.png?type=default&r=nno" width="356" alt="Chambrin's Dev Card"/></a>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Chambrin&icon=4&color=3)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/bc6b30e9-ca2f-4741-a912-a9927f88ea1e.svg)](https://wakatime.com/@bc6b30e9-ca2f-4741-a912-a9927f88ea1e)
