@@ -9,6 +9,7 @@ Full-Stack Typescript Developer
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [contact@chambrin.dev](mailto:contact@chambrin.dev)
 *   👨‍💻  Portfolio: [chambrin.dev](https://chambrin.dev)
+*   🌱  Work on Next-gold BoilerPlate ![NPM Downloads](https://img.shields.io/npm/d18m/next-gold)
 
   
 
